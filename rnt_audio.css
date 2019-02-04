@@ -14,7 +14,7 @@
 */
 
 /* Audio Styles */
-/*Displays the audio clip as a block, adds a dark gray box shadow with a horizontal and vertical offset of 8 pixels and a blur of 15 pixels, sets the top/bottom margin to 20 pixels and the left/right margin to auto, and sets the width of the player to 80%.  */
+/*Displays the audio clip as a block, adds a dark gray box shadow with a horizontal and vertical offset of 8 pixels and a blur of 15 pixels, sets the top/bottom margin to 20 pixels and the left/right margin to auto, and sets the width of the player to 80%. */
 audio {
     display: block;
     box-shadow: darkgray 8px 8px 15px;
